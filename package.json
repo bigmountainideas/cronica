@@ -1,0 +1,26 @@
+{
+  "name" : "cronica",
+  "version" : "0.0.1",
+  "description" : "Git based content versioning.",
+  "author" : "Jovan Alleyne <jovan@bigmountainideas.com>",
+  "contributors": [
+    {
+      "name": "Jovan Alleyne",
+      "email": "jovan@bigmountainideas.com"
+    }
+  ],
+  "dependencies" : {
+    
+  },
+  "keywords": [
+    "git",
+    "versioning",
+    "cms",
+    "web"
+  ],
+  "repository": "git://github.com/bigmountainideas/cronica",
+  "main": "index",
+  "engines": {
+    "node": "*"
+  }
+}
